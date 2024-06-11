@@ -1,0 +1,5 @@
+https://github.com/kimjiwoo0707/jiu1031/blob/main/%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%A1%B0.png
+cnn을 사용 / 모델을 직접 짜보왔다.
+
+# yolo 사용
+선택 이유 : 실시간 처리에 적합하기때문이다.
